@@ -1,0 +1,26 @@
+.grid {
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 250px;
+    width: 500px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myCarousel {
+    background-color: white;
+}
+
+.slides {
+    height: 300px;
+}
+
+.top {
+    height: 100%;
+    width: 100%;
+}
